@@ -1,4 +1,4 @@
-# This readme file has been left from xreef's repository and has yet to be reviewed. 
+# This library is functional, but supporting documentation is still in progress.
 This library was rewritten and not committed as a fork of xreef's due to quite significant code changes, the most significant is due to how the chip handles inputs and outputs and how code should reflect that. This is explained best by a snippet of comments from the code here:
 
 NXP's documentation of this chip (https://www.nxp.com/docs/en/data-sheet/PCF8574_PCF8574A.pdf p8)
