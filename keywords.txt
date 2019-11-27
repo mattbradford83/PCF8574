@@ -1,5 +1,5 @@
 ###########################################
-# Syntax Coloring Map For PCF8574-library
+# Syntax Coloring Map For PCF8574
 ###########################################
 
 ###########################################
@@ -15,7 +15,6 @@ PCF8574	KEYWORD1
 begin	KEYWORD2
 pinMode	KEYWORD2
 
-readBuffer	KEYWORD2
 digitalRead	KEYWORD2
 digitalReadAll	KEYWORD2
 digitalWrite	KEYWORD2
