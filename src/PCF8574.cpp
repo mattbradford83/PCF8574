@@ -1,6 +1,7 @@
 /*
- * PCF8574 GPIO Port Expand
- * https://www.mischianti.org/2019/01/02/pcf8574-i2c-digital-i-o-expander-fast-easy-usage/
+ * PCF8574 GPIO Port Expander Library
+ * Copyright (c) 2020 Matt Bradford <arduino@mattbradford.com> All Rights Reserved.
+ * Copyright (c) 2017 Renzo Mischianti www.mischianti.org All right reserved.
  *
  * The MIT License (MIT)
  *

@@ -1,5 +1,5 @@
 /*
- * PCF8574 GPIO Port Expander
+ * PCF8574 GPIO Port Expander Library
  * Copyright (c) 2020 Matt Bradford <arduino@mattbradford.com> All Rights Reserved.
  * Copyright (c) 2017 Renzo Mischianti www.mischianti.org All right reserved.
  *
